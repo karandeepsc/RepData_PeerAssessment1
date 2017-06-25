@@ -27,7 +27,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>RepData_PeerAssessment1/README.md at master · awulfes/RepData_PeerAssessment1</title>
+  <title>RepData_PeerAssessment1/PA1_template.md at master · awulfes/RepData_PeerAssessment1</title>
   <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
@@ -36,10 +36,10 @@
     <meta content="https://avatars1.githubusercontent.com/u/25174955?v=3&amp;s=400" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="awulfes/RepData_PeerAssessment1" property="og:title" /><meta content="https://github.com/awulfes/RepData_PeerAssessment1" property="og:url" /><meta content="Contribute to RepData_PeerAssessment1 development by creating an account on GitHub." property="og:description" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MTgzMzk1NTM2OmEzOWU5NjJjMWJlZmI1OWU1MDNlNzJkZGU3ZjdhZGQ0MGY0M2VmM2NiZTc0MzA5OTYxZTUxNjRiNDJmMzVjNWQ=--08e0a0f6a92e0804fa0ebc7ffc9a218758d6bb7d">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MTgzMzk1NTM2OmRlM2I5NzA0MmRhNTJiNjhhZmM0MzFhNTY4ZTM3NTZhZWIxZmM2NTczNzlkZTRmZjcwYTEzZWM5OTBiNDRhZGE=--ca77c5485c15bb605e161627583a03884e71751d">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="DF6A:2B0A4:3BB8C41:5B20F02:594FB478" data-pjax-transient>
+  <meta name="request-id" content="DF6A:2B0A4:3BB8AA2:5B20C6A:594FB472" data-pjax-transient>
   
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
@@ -48,7 +48,7 @@
 <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="DF6A:2B0A4:3BB8C41:5B20F02:594FB478" name="octolytics-dimension-request_id" /><meta content="sea" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="22847535" name="octolytics-actor-id" /><meta content="karandeepsc" name="octolytics-actor-login" /><meta content="24ec04998153bd0888bea7cf61c8d49b71b77f8b916f73c9c32a69a207e4679c" name="octolytics-actor-hash" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="DF6A:2B0A4:3BB8AA2:5B20C6A:594FB472" name="octolytics-dimension-request_id" /><meta content="sea" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="22847535" name="octolytics-actor-id" /><meta content="karandeepsc" name="octolytics-actor-login" /><meta content="24ec04998153bd0888bea7cf61c8d49b71b77f8b916f73c9c32a69a207e4679c" name="octolytics-actor-hash" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -63,7 +63,7 @@
   <meta name="user-login" content="karandeepsc">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="NmQ3NjZkMTA3MzRmYThhNDhkMWU5MDQ4YTI0NmUzNDNjODg5ZmIxNTZhMjA2YTVlYjViMzBlN2ViODQ1ZTc5N3x7InJlbW90ZV9hZGRyZXNzIjoiMTIyLjEwNy43NC4xNTMiLCJyZXF1ZXN0X2lkIjoiREY2QToyQjBBNDozQkI4QzQxOjVCMjBGMDI6NTk0RkI0NzgiLCJ0aW1lc3RhbXAiOjE0OTgzOTU3NzQsImhvc3QiOiJnaXRodWIuY29tIn0=">
+    <meta name="js-proxy-site-detection-payload" content="ODdkOTYzYzdkNjcxMGFhNTRjYTIwYzVjYzZlNTFhODg2ZGFhMTI5NDhlOTc5ZWU5ZjFjNzRjNzFkZjE2MmIxN3x7InJlbW90ZV9hZGRyZXNzIjoiMTIyLjEwNy43NC4xNTMiLCJyZXF1ZXN0X2lkIjoiREY2QToyQjBBNDozQkI4QUEyOjVCMjBDNkE6NTk0RkI0NzIiLCJ0aW1lc3RhbXAiOjE0OTgzOTU3NjgsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
 
   <meta name="html-safe-nonce" content="97dba7da9aa3ef2bd8cd06259f4276c1646fd14c">
@@ -79,7 +79,7 @@
   <meta content="25174955" name="octolytics-dimension-user_id" /><meta content="awulfes" name="octolytics-dimension-user_login" /><meta content="89850377" name="octolytics-dimension-repository_id" /><meta content="awulfes/RepData_PeerAssessment1" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="89850377" name="octolytics-dimension-repository_network_root_id" /><meta content="awulfes/RepData_PeerAssessment1" name="octolytics-dimension-repository_network_root_nwo" /><meta content="false" name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" />
 
 
-    <link rel="canonical" href="https://github.com/awulfes/RepData_PeerAssessment1/blob/master/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/awulfes/RepData_PeerAssessment1/blob/master/PA1_template.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -122,7 +122,7 @@
         <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
   <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/awulfes/RepData_PeerAssessment1/search" class="js-site-search-form" data-scoped-search-url="/awulfes/RepData_PeerAssessment1/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
     <label class="form-control header-search-wrapper js-chromeless-input-container">
-        <a href="/awulfes/RepData_PeerAssessment1/blob/master/README.md" class="header-search-scope no-underline">This repository</a>
+        <a href="/awulfes/RepData_PeerAssessment1/blob/master/PA1_template.md" class="header-search-scope no-underline">This repository</a>
       <input type="text"
         class="form-control header-search-input js-site-search-focus js-site-search-field is-clearable"
         data-hotkey="s"
@@ -243,7 +243,7 @@
           Settings
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="uI4zmynPoJBalkJ6WKeCw2/VJv6cVX83XOwkreXR9MQS4b0QFAYxwbe36WbPlMtSL9jHlkX/6UuuG9Sl5mFTFQ==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="7BrEfkgU3SRGBwU+n70fz0SuzhDKyp2M8s3106wK3oNGdUr1dd1MdasmriIIjlZeBKMveBNgC/AAOgXbr7p5Ug==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -253,7 +253,7 @@
 </ul>
 
 
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="K3hoXaTJITxJkver4bWIpxWOudqEyMNKCj2aYednMlqBF+bWmQCwbaSzXLd2hsE2VYNYsl1iVTb4ympp5NeViw==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="QE0QxrKCdeZ66y5Aelro7OUzlCN+2iqyIgSgDCy0COLqIp5Nj0vkt5fKhVztaaF9pT51S6dwvM7Q81AELwSvMw==" /></div>
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
         Sign out
       </button>
@@ -285,7 +285,7 @@
 
         <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="7vE3xyMmUY4GysqmbqPjzXj6SfddC0mjfzqzcjgSv7+8aM68npYX5vm8Ir791VJ12eZWLRAsYGiiIwuCoDC+VA==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="89850377" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="s8+xfLuByV4hJyG+JhySBN6fwfgpRK3FZLKerRGKMZnhVkgHBjGPNt5Ryaa1aiO8f4PeImRjhA65qyZdiagwcg==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="89850377" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/awulfes/RepData_PeerAssessment1/subscription"
@@ -364,7 +364,7 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/awulfes/RepData_PeerAssessment1/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="qifrPZE4mjgnHKFICo0ekwGNNAWHb4NMnLAZGQKH37STqL4bqxPNHlv73/j8KpMOGHfoc/qjYwkUDbVGpKDdHg==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/awulfes/RepData_PeerAssessment1/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="xoWOJK36ZDTPK2JIa+z7DhRZWIOpvimQIjyxVY1Czzn/CtsCl9EzErPMHPidS3aTDaOE9dRyydWqgR0KK2XNkw==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
@@ -378,7 +378,7 @@
           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/awulfes/RepData_PeerAssessment1/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Kgig2pJSCgD7hYqWdk63zl5/1EK6AZ6L9w4kJWspSKiB4Yban1qGPZJhFVlzksSOSk6QMKjqOL2Mk8pf5FlmvQ==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/awulfes/RepData_PeerAssessment1/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Tm/WMaYG0alIqpmRPkgSxWbwiB0br8LanSV52F6uhiTlhvAxqw5dlCFOBl47lGGFcsHMbwlEZOzmuJei0d6oMQ==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
@@ -396,7 +396,7 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/awulfes/RepData_PeerAssessment1/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="9jP2RIxyCfOMc5zfj7nLk/Hn35PPi4SUff/ISSnTm/zPXQDuIOKaWrRWtI1SO/verqsTOUNcZyKYweXLyN9EkQ==" /></div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/awulfes/RepData_PeerAssessment1/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Y4HPTx+6NcRlBLltb9ETfhfj7tpT/l0JevmtzLiOg3ta7znlsyqmbV0hkT+yUyMzSK8icN8pvr+fx4BOWYJcFg==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -491,9 +491,9 @@
   <div class="repository-content">
 
     
-  <a href="/awulfes/RepData_PeerAssessment1/blob/480bdb0af0d8c510f025e08710da0ecbd08eccee/README.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
+  <a href="/awulfes/RepData_PeerAssessment1/blob/480bdb0af0d8c510f025e08710da0ecbd08eccee/PA1_template.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-  <!-- blob contrib key: blob_contributors:v21:32b94e8ae37699c1da87e5f2c19411d9 -->
+  <!-- blob contrib key: blob_contributors:v21:0556c1093e48802b13b01d3e9d34c8be -->
 
   <div class="file-navigation js-zeroclipboard-container">
     
@@ -535,7 +535,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/awulfes/RepData_PeerAssessment1/blob/master/README.md"
+               href="/awulfes/RepData_PeerAssessment1/blob/master/PA1_template.md"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -572,12 +572,12 @@
       <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm BtnGroup-item tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
     </div>
     <div class="breadcrumb js-zeroclipboard-target">
-      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/awulfes/RepData_PeerAssessment1"><span>RepData_PeerAssessment1</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/awulfes/RepData_PeerAssessment1"><span>RepData_PeerAssessment1</span></a></span></span><span class="separator">/</span><strong class="final-path">PA1_template.md</strong>
     </div>
   </div>
 
 
-  <include-fragment class="commit-tease" src="/awulfes/RepData_PeerAssessment1/contributors/master/README.md">
+  <include-fragment class="commit-tease" src="/awulfes/RepData_PeerAssessment1/contributors/master/PA1_template.md">
     <div>
       Fetching contributors&hellip;
     </div>
@@ -592,9 +592,9 @@
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a href="/awulfes/RepData_PeerAssessment1/raw/master/README.md" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
-        <a href="/awulfes/RepData_PeerAssessment1/blame/master/README.md" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
-      <a href="/awulfes/RepData_PeerAssessment1/commits/master/README.md" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
+      <a href="/awulfes/RepData_PeerAssessment1/raw/master/PA1_template.md" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
+        <a href="/awulfes/RepData_PeerAssessment1/blame/master/PA1_template.md" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
+      <a href="/awulfes/RepData_PeerAssessment1/commits/master/PA1_template.md" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
@@ -604,12 +604,12 @@
             <svg aria-hidden="true" class="octicon octicon-device-desktop" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/awulfes/RepData_PeerAssessment1/edit/master/README.md" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="t+ZpMF1q/Ta8Iln6Whba06gYh7xFLEt/dA+D2TNi2lWQzZDjiTTlVznU2GJVMXIcAb7BpHNEnrX4OWqJdmi4XQ==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/awulfes/RepData_PeerAssessment1/edit/master/PA1_template.md" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="DwkDLTccPMp/0YB0as3h8jsg/kGvzw9DxAZ2IFC+hhntr4Kuyfp4tvlqoTwTQycSXJdyYtqR1yn2RatsmUJqiA==" /></div>
           <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
           </button>
-</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/awulfes/RepData_PeerAssessment1/delete/master/README.md" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="zO3BncJupeoAMBa0KB01XUFxr/597bWoKzL+01XdJvwWgfRYW++eMiFV216Ugtr39yo0EpkhajqJZnCWWLDuEg==" /></div>
+</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/awulfes/RepData_PeerAssessment1/delete/master/PA1_template.md" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="zYV3hScfKufLFRnbtAzODPFh9hdzCXChtCfKRnCJhhKANS9My6c1C+pUjMlL9nEZDwXgmPs5ahYdModje2ML9A==" /></div>
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and delete the file" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -617,180 +617,127 @@
 </form>  </div>
 
   <div class="file-info">
-      169 lines (103 sloc)
+      226 lines (144 sloc)
       <span class="file-info-divider"></span>
-    7.59 KB
+    4.85 KB
   </div>
 </div>
 
     
   <div id="readme" class="readme blob instapaper_body">
-    <article class="markdown-body entry-content" itemprop="text"><h2><a id="user-content-introduction" class="anchor" href="#introduction" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Introduction</h2>
-<p>It is now possible to collect a large amount of data about personal
-movement using activity monitoring devices such as a
-<a href="http://www.fitbit.com">Fitbit</a>, <a href="http://www.nike.com/us/en_us/c/nikeplus-fuelband">Nike
-Fuelband</a>, or
-<a href="https://jawbone.com/up">Jawbone Up</a>. These type of devices are part of
-the "quantified self" movement -- a group of enthusiasts who take
-measurements about themselves regularly to improve their health, to
-find patterns in their behavior, or because they are tech geeks. But
-these data remain under-utilized both because the raw data are hard to
-obtain and there is a lack of statistical methods and software for
-processing and interpreting the data.</p>
-<p>This assignment makes use of data from a personal activity monitoring
-device. This device collects data at 5 minute intervals through out the
-day. The data consists of two months of data from an anonymous
-individual collected during the months of October and November, 2012
-and include the number of steps taken in 5 minute intervals each day.</p>
-<h2><a id="user-content-data" class="anchor" href="#data" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Data</h2>
-<p>The data for this assignment can be downloaded from the course web
-site:</p>
-<ul>
-<li>Dataset: <a href="https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip">Activity monitoring data</a> [52K]</li>
-</ul>
-<p>The variables included in this dataset are:</p>
-<ul>
-<li>
-<p><strong>steps</strong>: Number of steps taking in a 5-minute interval (missing
-values are coded as <code>NA</code>)</p>
-</li>
-<li>
-<p><strong>date</strong>: The date on which the measurement was taken in YYYY-MM-DD
-format</p>
-</li>
-<li>
-<p><strong>interval</strong>: Identifier for the 5-minute interval in which
-measurement was taken</p>
-</li>
-</ul>
-<p>The dataset is stored in a comma-separated-value (CSV) file and there
-are a total of 17,568 observations in this
-dataset.</p>
-<h2><a id="user-content-assignment" class="anchor" href="#assignment" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Assignment</h2>
-<p>This assignment will be described in multiple parts. You will need to
-write a report that answers the questions detailed below. Ultimately,
-you will need to complete the entire assignment in a <strong>single R
-markdown</strong> document that can be processed by <strong>knitr</strong> and be
-transformed into an HTML file.</p>
-<p>Throughout your report make sure you always include the code that you
-used to generate the output you present. When writing code chunks in
-the R markdown document, always use <code>echo = TRUE</code> so that someone else
-will be able to read the code. <strong>This assignment will be evaluated via
-peer assessment so it is essential that your peer evaluators be able
-to review the code for your analysis</strong>.</p>
-<p>For the plotting aspects of this assignment, feel free to use any
-plotting system in R (i.e., base, lattice, ggplot2)</p>
-<p>Fork/clone the <a href="http://github.com/rdpeng/RepData_PeerAssessment1">GitHub repository created for this
-assignment</a>. You
-will submit this assignment by pushing your completed files into your
-forked repository on GitHub. The assignment submission will consist of
-the URL to your GitHub repository and the SHA-1 commit ID for your
-repository state.</p>
-<p>NOTE: The GitHub repository also contains the dataset for the
-assignment so you do not have to download the data separately.</p>
-<h3><a id="user-content-loading-and-preprocessing-the-data" class="anchor" href="#loading-and-preprocessing-the-data" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Loading and preprocessing the data</h3>
-<p>Show any code that is needed to</p>
-<ol>
-<li>
-<p>Load the data (i.e. <code>read.csv()</code>)</p>
-</li>
-<li>
-<p>Process/transform the data (if necessary) into a format suitable for your analysis</p>
-</li>
-</ol>
-<h3><a id="user-content-what-is-mean-total-number-of-steps-taken-per-day" class="anchor" href="#what-is-mean-total-number-of-steps-taken-per-day" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>What is mean total number of steps taken per day?</h3>
-<p>For this part of the assignment, you can ignore the missing values in
-the dataset.</p>
-<ol>
-<li>
-<p>Make a histogram of the total number of steps taken each day</p>
-</li>
-<li>
-<p>Calculate and report the <strong>mean</strong> and <strong>median</strong> total number of steps taken per day</p>
-</li>
-</ol>
-<h3><a id="user-content-what-is-the-average-daily-activity-pattern" class="anchor" href="#what-is-the-average-daily-activity-pattern" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>What is the average daily activity pattern?</h3>
-<ol>
-<li>
-<p>Make a time series plot (i.e. <code>type = "l"</code>) of the 5-minute interval (x-axis) and the average number of steps taken, averaged across all days (y-axis)</p>
-</li>
-<li>
-<p>Which 5-minute interval, on average across all the days in the dataset, contains the maximum number of steps?</p>
-</li>
-</ol>
-<h3><a id="user-content-imputing-missing-values" class="anchor" href="#imputing-missing-values" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Imputing missing values</h3>
-<p>Note that there are a number of days/intervals where there are missing
-values (coded as <code>NA</code>). The presence of missing days may introduce
-bias into some calculations or summaries of the data.</p>
-<ol>
-<li>
-<p>Calculate and report the total number of missing values in the dataset (i.e. the total number of rows with <code>NA</code>s)</p>
-</li>
-<li>
-<p>Devise a strategy for filling in all of the missing values in the dataset. The strategy does not need to be sophisticated. For example, you could use the mean/median for that day, or the mean for that 5-minute interval, etc.</p>
-</li>
-<li>
-<p>Create a new dataset that is equal to the original dataset but with the missing data filled in.</p>
-</li>
-<li>
-<p>Make a histogram of the total number of steps taken each day and Calculate and report the <strong>mean</strong> and <strong>median</strong> total number of steps taken per day. Do these values differ from the estimates from the first part of the assignment? What is the impact of imputing missing data on the estimates of the total daily number of steps?</p>
-</li>
-</ol>
-<h3><a id="user-content-are-there-differences-in-activity-patterns-between-weekdays-and-weekends" class="anchor" href="#are-there-differences-in-activity-patterns-between-weekdays-and-weekends" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Are there differences in activity patterns between weekdays and weekends?</h3>
-<p>For this part the <code>weekdays()</code> function may be of some help here. Use
-the dataset with the filled-in missing values for this part.</p>
-<ol>
-<li>
-<p>Create a new factor variable in the dataset with two levels -- "weekday" and "weekend" indicating whether a given date is a weekday or weekend day.</p>
-</li>
-<li>
-<p>Make a panel plot containing a time series plot (i.e. <code>type = "l"</code>) of the 5-minute interval (x-axis) and the average number of steps taken, averaged across all weekday days or weekend days (y-axis). The plot should look something like the following, which was created using <strong>simulated data</strong>:</p>
-</li>
-</ol>
-<p><a href="/awulfes/RepData_PeerAssessment1/blob/master/instructions_fig/sample_panelplot.png" target="_blank"><img src="/awulfes/RepData_PeerAssessment1/raw/master/instructions_fig/sample_panelplot.png" alt="Sample panel plot" style="max-width:100%;"></a></p>
-<p><strong>Your plot will look different from the one above</strong> because you will
-be using the activity monitor data. Note that the above plot was made
-using the lattice system but you can make the same version of the plot
-using any plotting system you choose.</p>
-<h2><a id="user-content-submitting-the-assignment" class="anchor" href="#submitting-the-assignment" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Submitting the Assignment</h2>
-<p>To submit the assignment:</p>
-<ol>
-<li>
-<p>Commit your completed <code>PA1_template.Rmd</code> file to the <code>master</code> branch of your git repository (you should already be on the <code>master</code> branch unless you created new ones)</p>
-</li>
-<li>
-<p>Commit your <code>PA1_template.md</code> and <code>PA1_template.html</code> files produced by processing your R markdown file with the <code>knit2html()</code> function in R (from the <strong>knitr</strong> package)</p>
-</li>
-<li>
-<p>If your document has figures included (it should) then they should have been placed in the <code>figure/</code> directory by default (unless you overrode the default). Add and commit the <code>figure/</code> directory to your git repository.</p>
-</li>
-<li>
-<p>Push your <code>master</code> branch to GitHub.</p>
-</li>
-<li>
-<p>Submit the URL to your GitHub repository for this assignment on the course web site.</p>
-</li>
-</ol>
-<p>In addition to submitting the URL for your GitHub repository, you will
-need to submit the 40 character SHA-1 hash (as string of numbers from
-0-9 and letters from a-f) that identifies the repository commit that
-contains the version of the files you want to submit. You can do this
-in GitHub by doing the following:</p>
-<ol>
-<li>
-<p>Go into your GitHub repository web page for this assignment</p>
-</li>
-<li>
-<p>Click on the "?? commits" link where ?? is the number of commits you have in the repository. For example, if you made a total of 10 commits to this repository, the link should say "10 commits".</p>
-</li>
-<li>
-<p>You will see a list of commits that you have made to this repository. The most recent commit is at the very top. If this represents the version of the files you want to submit, then just click the "copy to clipboard" button on the right hand side that should appear when you hover over the SHA-1 hash. Paste this SHA-1 hash into the course web site when you submit your assignment. If you don't want to use the most recent commit, then go down and find the commit you want and copy the SHA-1 hash.</p>
-</li>
-</ol>
-<p>A valid submission will look something like (this is just an <strong>example</strong>!)</p>
-<div class="highlight highlight-source-r"><pre><span class="pl-smi">https</span><span class="pl-k">:</span><span class="pl-k">//</span><span class="pl-smi">github.com</span><span class="pl-k">/</span><span class="pl-smi">rdpeng</span><span class="pl-k">/</span><span class="pl-smi">RepData_PeerAssessment1</span>
+    <article class="markdown-body entry-content" itemprop="text"><h1><a id="user-content-coursera-jhu-reproducible-research-course---project-week-1" class="anchor" href="#coursera-jhu-reproducible-research-course---project-week-1" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Coursera JHU Reproducible Research course - Project Week 1</h1>
+<h2><a id="user-content-1-code-for-reading-in-the-dataset-andor-processing-the-data" class="anchor" href="#1-code-for-reading-in-the-dataset-andor-processing-the-data" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>1. Code for reading in the dataset and/or processing the data</h2>
+<p>The following code assumes that the zipped dataset is available in a "data" subfolder of the current working directory. The data is read to two data frames with and without NA values.</p>
+<div class="highlight highlight-source-r"><pre>unzip(<span class="pl-v">zipfile</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>./data/repdata_data_activity.zip<span class="pl-pds">"</span></span>, <span class="pl-v">files</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>activity.csv<span class="pl-pds">"</span></span>, <span class="pl-v">exdir</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>./data<span class="pl-pds">"</span></span>)
+<span class="pl-smi">activity</span> <span class="pl-k">&lt;-</span> read.csv(<span class="pl-s"><span class="pl-pds">"</span>./data/activity.csv<span class="pl-pds">"</span></span>)
 
-<span class="pl-ii">7c376cc5447f11537f8740af8e07d6facc3d9645</span></pre></div>
+<span class="pl-c"><span class="pl-c">#</span> remove NA</span>
+<span class="pl-smi">actNaOmit</span> <span class="pl-k">&lt;-</span> na.omit(<span class="pl-smi">activity</span>)</pre></div>
+<h2><a id="user-content-2-histogram-of-the-total-number-of-steps-taken-each-day" class="anchor" href="#2-histogram-of-the-total-number-of-steps-taken-each-day" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>2. Histogram of the total number of steps taken each day</h2>
+<p>The histogram is created on the data without NAs.</p>
+<div class="highlight highlight-source-r"><pre><span class="pl-smi">stepsPerDay</span> <span class="pl-k">&lt;-</span> aggregate(<span class="pl-smi">actNaOmit</span><span class="pl-k">$</span><span class="pl-smi">steps</span>, <span class="pl-k">list</span>(<span class="pl-smi">actNaOmit</span><span class="pl-k">$</span><span class="pl-smi">date</span>), <span class="pl-smi">sum</span>)
+colnames(<span class="pl-smi">stepsPerDay</span>) <span class="pl-k">&lt;-</span> c(<span class="pl-s"><span class="pl-pds">"</span>date<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>steps<span class="pl-pds">"</span></span>)
+hist(<span class="pl-smi">stepsPerDay</span><span class="pl-k">$</span><span class="pl-smi">steps</span>, <span class="pl-v">breaks</span> <span class="pl-k">=</span> <span class="pl-c1">15</span>, <span class="pl-v">main</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>Number of Steps per day<span class="pl-pds">"</span></span>, 
+     <span class="pl-v">xlab</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>Sum of steps taken<span class="pl-pds">"</span></span>, <span class="pl-v">ylab</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>Days<span class="pl-pds">"</span></span>)</pre></div>
+<p>![](PA1_template_files/figure-html/steps per day-1.png)</p>
+<h2><a id="user-content-3-mean-and-median-number-of-steps-taken-each-day" class="anchor" href="#3-mean-and-median-number-of-steps-taken-each-day" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>3. Mean and median number of steps taken each day</h2>
+<p>Mean of number of steps:</p>
+<div class="highlight highlight-source-r"><pre><span class="pl-smi">mean1</span> <span class="pl-k">&lt;-</span> mean(<span class="pl-smi">stepsPerDay</span><span class="pl-k">$</span><span class="pl-smi">steps</span>, <span class="pl-v">na.rm</span> <span class="pl-k">=</span> <span class="pl-c1">TRUE</span>)
+<span class="pl-smi">mean1</span></pre></div>
+<pre><code>## [1] 10766.19
+</code></pre>
+<p>Median of number of steps:</p>
+<div class="highlight highlight-source-r"><pre><span class="pl-smi">median1</span> <span class="pl-k">&lt;-</span> median(<span class="pl-smi">stepsPerDay</span><span class="pl-k">$</span><span class="pl-smi">steps</span>, <span class="pl-v">na.rm</span> <span class="pl-k">=</span> <span class="pl-c1">TRUE</span>)
+<span class="pl-smi">median1</span></pre></div>
+<pre><code>## [1] 10765
+</code></pre>
+<p>General summary:</p>
+<div class="highlight highlight-source-r"><pre>summary(<span class="pl-smi">stepsPerDay</span><span class="pl-k">$</span><span class="pl-smi">steps</span>)</pre></div>
+<pre><code>##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+##      41    8841   10760   10770   13290   21190
+</code></pre>
+<h2><a id="user-content-4-time-series-plot-of-the-average-number-of-steps-taken" class="anchor" href="#4-time-series-plot-of-the-average-number-of-steps-taken" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>4. Time series plot of the average number of steps taken</h2>
+<div class="highlight highlight-source-r"><pre><span class="pl-c"><span class="pl-c">#</span> caluclate avg steps per interval</span>
+<span class="pl-smi">avgInt</span> <span class="pl-k">&lt;-</span> aggregate(<span class="pl-smi">actNaOmit</span><span class="pl-k">$</span><span class="pl-smi">steps</span>, <span class="pl-k">list</span>(<span class="pl-smi">actNaOmit</span><span class="pl-k">$</span><span class="pl-smi">interval</span>), <span class="pl-smi">mean</span>)
+colnames(<span class="pl-smi">avgInt</span>) <span class="pl-k">&lt;-</span> c(<span class="pl-s"><span class="pl-pds">"</span>Interval<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>AvgNumSteps<span class="pl-pds">"</span></span>)
+
+<span class="pl-c"><span class="pl-c">#</span> plot time series</span>
+plot(<span class="pl-smi">avgInt</span><span class="pl-k">$</span><span class="pl-smi">Interval</span>, <span class="pl-smi">avgInt</span><span class="pl-k">$</span><span class="pl-smi">AvgNumSteps</span>,<span class="pl-v">axes</span> <span class="pl-k">=</span> <span class="pl-c1">F</span>, <span class="pl-v">type</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>l<span class="pl-pds">"</span></span>, <span class="pl-v">xlab</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>Time interval<span class="pl-pds">"</span></span>, <span class="pl-v">ylab</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>Average Number of Steps<span class="pl-pds">"</span></span>, <span class="pl-v">main</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>Average Daily Activity<span class="pl-pds">"</span></span>)
+axis(<span class="pl-c1">1</span>,<span class="pl-v">at</span><span class="pl-k">=</span>c(<span class="pl-c1">0</span>,<span class="pl-c1">300</span>, <span class="pl-c1">600</span>, <span class="pl-c1">900</span>, <span class="pl-c1">1200</span>, <span class="pl-c1">1500</span>, <span class="pl-c1">1800</span>, <span class="pl-c1">2100</span>, <span class="pl-c1">2400</span>), <span class="pl-v">label</span> <span class="pl-k">=</span> c(<span class="pl-s"><span class="pl-pds">"</span>0:00<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>03:00<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>6:00<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>09:00<span class="pl-pds">"</span></span>,<span class="pl-s"><span class="pl-pds">"</span>12:00<span class="pl-pds">"</span></span>,<span class="pl-s"><span class="pl-pds">"</span>15:00<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>18:00<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>21:00<span class="pl-pds">"</span></span>,<span class="pl-s"><span class="pl-pds">"</span>24:00<span class="pl-pds">"</span></span>))
+axis(<span class="pl-c1">2</span>)</pre></div>
+<p>![](PA1_template_files/figure-html/averages per interval-1.png)</p>
+<h2><a id="user-content-5-the-5-minute-interval-that-on-average-contains-the-maximum-number-of-steps" class="anchor" href="#5-the-5-minute-interval-that-on-average-contains-the-maximum-number-of-steps" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>5. The 5-minute interval that, on average, contains the maximum number of steps</h2>
+<p>The interval with the average number of steps is:</p>
+<div class="highlight highlight-source-r"><pre><span class="pl-smi">avgInt</span>[which.max(<span class="pl-smi">avgInt</span><span class="pl-k">$</span><span class="pl-smi">AvgNumSteps</span>),]</pre></div>
+<pre><code>##     Interval AvgNumSteps
+## 104      835    206.1698
+</code></pre>
+<p>It is the interval from 08:35-08:40.</p>
+<h2><a id="user-content-6-code-to-describe-and-show-a-strategy-for-imputing-missing-data" class="anchor" href="#6-code-to-describe-and-show-a-strategy-for-imputing-missing-data" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>6. Code to describe and show a strategy for imputing missing data</h2>
+<p>Chosen approach: Fill in missing values with the average for the time intervals</p>
+<div class="highlight highlight-source-r"><pre><span class="pl-smi">imputedData</span> <span class="pl-k">&lt;-</span> <span class="pl-smi">activity</span>
+
+<span class="pl-c"><span class="pl-c">#</span> function to impute if necessary</span>
+<span class="pl-en">impute</span> <span class="pl-k">&lt;-</span> <span class="pl-k">function</span> (<span class="pl-smi">a</span>, <span class="pl-smi">a.impute</span>){
+  ifelse (is.na(<span class="pl-smi">a</span>), <span class="pl-smi">a.impute</span>, <span class="pl-smi">a</span>)
+}
+
+<span class="pl-c"><span class="pl-c">#</span> tmp vector</span>
+<span class="pl-smi">avg1</span> <span class="pl-k">&lt;-</span> vector(<span class="pl-v">mode</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>numeric<span class="pl-pds">"</span></span>, <span class="pl-v">length</span><span class="pl-k">=</span><span class="pl-c1">0</span>)
+
+<span class="pl-c"><span class="pl-c">#</span> get average value</span>
+<span class="pl-k">for</span> (<span class="pl-smi">i</span> <span class="pl-k">in</span> <span class="pl-c1">1</span><span class="pl-k">:</span>nrow(<span class="pl-smi">activity</span>)){
+    <span class="pl-k">if</span> (is.na(<span class="pl-smi">activity</span><span class="pl-k">$</span><span class="pl-smi">steps</span>[<span class="pl-smi">i</span>])){
+        <span class="pl-smi">avg1</span>[<span class="pl-smi">i</span>] <span class="pl-k">&lt;-</span> <span class="pl-smi">avgInt</span><span class="pl-k">$</span><span class="pl-smi">AvgNumSteps</span>[which(<span class="pl-smi">activity</span><span class="pl-k">$</span><span class="pl-smi">interval</span>[<span class="pl-smi">i</span>] <span class="pl-k">==</span> <span class="pl-smi">avgInt</span><span class="pl-k">$</span><span class="pl-smi">Interval</span>)]
+    }
+    <span class="pl-k">else</span> {
+      <span class="pl-smi">avg1</span>[<span class="pl-smi">i</span>] <span class="pl-k">&lt;-</span> <span class="pl-smi">activity</span><span class="pl-k">$</span><span class="pl-smi">steps</span>[<span class="pl-smi">i</span>]
+    }   
+}
+
+<span class="pl-c"><span class="pl-c">#</span> impute values</span>
+<span class="pl-smi">imputedData</span><span class="pl-k">$</span><span class="pl-smi">steps</span> <span class="pl-k">&lt;-</span> impute (<span class="pl-smi">activity</span><span class="pl-k">$</span><span class="pl-smi">steps</span>, <span class="pl-smi">avg1</span>)</pre></div>
+<h2><a id="user-content-7-histogram-of-the-total-number-of-steps-taken-each-day-after-missing-values-are-imputed" class="anchor" href="#7-histogram-of-the-total-number-of-steps-taken-each-day-after-missing-values-are-imputed" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>7. Histogram of the total number of steps taken each day after missing values are imputed</h2>
+<p>Create new histogram</p>
+<div class="highlight highlight-source-r"><pre><span class="pl-smi">stepsPerDay</span> <span class="pl-k">&lt;-</span> aggregate(<span class="pl-smi">imputedData</span><span class="pl-k">$</span><span class="pl-smi">steps</span>, <span class="pl-k">list</span>(<span class="pl-smi">imputedData</span><span class="pl-k">$</span><span class="pl-smi">date</span>), <span class="pl-smi">sum</span>)
+colnames(<span class="pl-smi">stepsPerDay</span>) <span class="pl-k">&lt;-</span> c(<span class="pl-s"><span class="pl-pds">"</span>date<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>steps<span class="pl-pds">"</span></span>)
+hist(<span class="pl-smi">stepsPerDay</span><span class="pl-k">$</span><span class="pl-smi">steps</span>, <span class="pl-v">breaks</span> <span class="pl-k">=</span> <span class="pl-c1">15</span>, <span class="pl-v">main</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>Number of Steps per day (imputed values for NA)<span class="pl-pds">"</span></span>, 
+     <span class="pl-v">xlab</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>Sum of steps taken<span class="pl-pds">"</span></span>, <span class="pl-v">ylab</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>Days<span class="pl-pds">"</span></span>)</pre></div>
+<p>![](PA1_template_files/figure-html/steps per day new-1.png)</p>
+<p>Mean of number of steps:</p>
+<div class="highlight highlight-source-r"><pre><span class="pl-smi">mean2</span> <span class="pl-k">&lt;-</span> mean(<span class="pl-smi">stepsPerDay</span><span class="pl-k">$</span><span class="pl-smi">steps</span>, <span class="pl-v">na.rm</span> <span class="pl-k">=</span> <span class="pl-c1">TRUE</span>)
+<span class="pl-smi">mean2</span></pre></div>
+<pre><code>## [1] 10766.19
+</code></pre>
+<p>Median of number of steps:</p>
+<div class="highlight highlight-source-r"><pre><span class="pl-smi">median2</span> <span class="pl-k">&lt;-</span> median(<span class="pl-smi">stepsPerDay</span><span class="pl-k">$</span><span class="pl-smi">steps</span>, <span class="pl-v">na.rm</span> <span class="pl-k">=</span> <span class="pl-c1">TRUE</span>)
+<span class="pl-smi">median2</span></pre></div>
+<pre><code>## [1] 10766.19
+</code></pre>
+<p>Differences between imputed and orignal data:</p>
+<div class="highlight highlight-source-r"><pre><span class="pl-smi">mean1</span><span class="pl-k">-</span><span class="pl-smi">mean2</span></pre></div>
+<pre><code>## [1] 0
+</code></pre>
+<div class="highlight highlight-source-r"><pre><span class="pl-smi">median1</span><span class="pl-k">-</span><span class="pl-smi">median2</span></pre></div>
+<pre><code>## [1] -1.188679
+</code></pre>
+<p>Result:
+While the overall mean stayed the same - the median shifted.</p>
+<h2><a id="user-content-8-panel-plot-comparing-the-average-number-of-steps-taken-per-5-minute-interval-across-weekdays-and-weekends" class="anchor" href="#8-panel-plot-comparing-the-average-number-of-steps-taken-per-5-minute-interval-across-weekdays-and-weekends" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>8. Panel plot comparing the average number of steps taken per 5-minute interval across weekdays and weekends</h2>
+<p>Identify day of week, daytype (weekday, weekend) and calculate average for these groups.</p>
+<div class="highlight highlight-source-r"><pre><span class="pl-c"><span class="pl-c">#</span> get day of week</span>
+<span class="pl-smi">imputedData</span><span class="pl-k">$</span><span class="pl-smi">weekdays</span> <span class="pl-k">&lt;-</span> as.POSIXlt(as.Date(<span class="pl-smi">imputedData</span><span class="pl-k">$</span><span class="pl-smi">date</span>))<span class="pl-k">$</span><span class="pl-smi">wday</span>
+<span class="pl-c"><span class="pl-c">#</span> define weekend or not</span>
+<span class="pl-smi">imputedData</span><span class="pl-k">$</span><span class="pl-smi">daytype</span> <span class="pl-k">&lt;-</span> ifelse(<span class="pl-smi">imputedData</span><span class="pl-k">$</span><span class="pl-smi">weekdays</span> <span class="pl-k">%in%</span> c(<span class="pl-c1">6</span>, <span class="pl-c1">7</span>),<span class="pl-s"><span class="pl-pds">"</span>weekend<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>weekday<span class="pl-pds">"</span></span>)
+
+<span class="pl-c"><span class="pl-c">#</span> compute avg per interval and day type</span>
+<span class="pl-smi">stepsPerDay</span> <span class="pl-k">&lt;-</span> aggregate(<span class="pl-smi">imputedData</span><span class="pl-k">$</span><span class="pl-smi">steps</span>, <span class="pl-k">list</span>(<span class="pl-smi">imputedData</span><span class="pl-k">$</span><span class="pl-smi">interval</span>, <span class="pl-smi">imputedData</span><span class="pl-k">$</span><span class="pl-smi">daytype</span>), <span class="pl-smi">mean</span>)
+colnames(<span class="pl-smi">stepsPerDay</span>) <span class="pl-k">&lt;-</span> c(<span class="pl-s"><span class="pl-pds">"</span>interval<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>daytype<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>avgsteps<span class="pl-pds">"</span></span>)</pre></div>
+<p>Now plot the steps using the lattice package</p>
+<div class="highlight highlight-source-r"><pre>library(<span class="pl-smi">lattice</span>)
+xyplot(<span class="pl-smi">avgsteps</span> <span class="pl-k">~</span> <span class="pl-smi">interval</span> <span class="pl-k">|</span> <span class="pl-smi">daytype</span>, <span class="pl-v">data</span> <span class="pl-k">=</span> <span class="pl-smi">stepsPerDay</span>, <span class="pl-v">layout</span> <span class="pl-k">=</span> c(<span class="pl-c1">1</span>, <span class="pl-c1">2</span>), 
+       <span class="pl-v">type</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>l<span class="pl-pds">"</span></span>, <span class="pl-v">xlab</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>Interval<span class="pl-pds">"</span></span>, <span class="pl-v">ylab</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>Number of steps<span class="pl-pds">"</span></span>)</pre></div>
+<p><a href="/awulfes/RepData_PeerAssessment1/blob/master/PA1_template_files/figure-html/unnamed-chunk-6-1.png" target="_blank"><img src="/awulfes/RepData_PeerAssessment1/raw/master/PA1_template_files/figure-html/unnamed-chunk-6-1.png" alt="" style="max-width:100%;"></a></p>
 </article>
   </div>
 
@@ -829,7 +776,7 @@ in GitHub by doing the following:</p>
       <svg aria-hidden="true" class="octicon octicon-mark-github" height="24" version="1.1" viewBox="0 0 16 16" width="24"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2017 <span title="0.18384s from unicorn-1981933685-qf92m">GitHub</span>, Inc.</li>
+      <li>&copy; 2017 <span title="0.11860s from github-fe-651e69d.cp1-iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>

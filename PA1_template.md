@@ -27,19 +27,19 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>RepData_PeerAssessment1/PA1_template.md at master · awulfes/RepData_PeerAssessment1</title>
+  <title>RepData_PeerAssessment1/PA1_template.md at master · sujitdas9960/RepData_PeerAssessment1</title>
   <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
 
     
-    <meta content="https://avatars1.githubusercontent.com/u/25174955?v=3&amp;s=400" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="awulfes/RepData_PeerAssessment1" property="og:title" /><meta content="https://github.com/awulfes/RepData_PeerAssessment1" property="og:url" /><meta content="Contribute to RepData_PeerAssessment1 development by creating an account on GitHub." property="og:description" />
+    <meta content="https://avatars2.githubusercontent.com/u/23091419?v=3&amp;s=400" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="sujitdas9960/RepData_PeerAssessment1" property="og:title" /><meta content="https://github.com/sujitdas9960/RepData_PeerAssessment1" property="og:url" /><meta content="Contribute to RepData_PeerAssessment1 development by creating an account on GitHub." property="og:description" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MTgzMzk1NTM2OmRlM2I5NzA0MmRhNTJiNjhhZmM0MzFhNTY4ZTM3NTZhZWIxZmM2NTczNzlkZTRmZjcwYTEzZWM5OTBiNDRhZGE=--ca77c5485c15bb605e161627583a03884e71751d">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MTgzMzk1NTM2OjEwZTQxYTEzZWQ2Y2NjMjg0YTBkZDRlYWZhMjM4ZmExMWRlZGRmYjA2ZWVmMWY0YjZhMDliOGNiMTBjM2NjZWU=--ab7847b4051ed50fc1244232fff5589605c6606c">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="DF6A:2B0A4:3BB8AA2:5B20C6A:594FB472" data-pjax-transient>
+  <meta name="request-id" content="E0B7:2B0A4:3BBFD2B:5B2BE0C:594FB628" data-pjax-transient>
   
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
@@ -48,7 +48,7 @@
 <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="DF6A:2B0A4:3BB8AA2:5B20C6A:594FB472" name="octolytics-dimension-request_id" /><meta content="sea" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="22847535" name="octolytics-actor-id" /><meta content="karandeepsc" name="octolytics-actor-login" /><meta content="24ec04998153bd0888bea7cf61c8d49b71b77f8b916f73c9c32a69a207e4679c" name="octolytics-actor-hash" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="E0B7:2B0A4:3BBFD2B:5B2BE0C:594FB628" name="octolytics-dimension-request_id" /><meta content="sea" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="22847535" name="octolytics-actor-id" /><meta content="karandeepsc" name="octolytics-actor-login" /><meta content="24ec04998153bd0888bea7cf61c8d49b71b77f8b916f73c9c32a69a207e4679c" name="octolytics-actor-hash" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -63,7 +63,7 @@
   <meta name="user-login" content="karandeepsc">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="ODdkOTYzYzdkNjcxMGFhNTRjYTIwYzVjYzZlNTFhODg2ZGFhMTI5NDhlOTc5ZWU5ZjFjNzRjNzFkZjE2MmIxN3x7InJlbW90ZV9hZGRyZXNzIjoiMTIyLjEwNy43NC4xNTMiLCJyZXF1ZXN0X2lkIjoiREY2QToyQjBBNDozQkI4QUEyOjVCMjBDNkE6NTk0RkI0NzIiLCJ0aW1lc3RhbXAiOjE0OTgzOTU3NjgsImhvc3QiOiJnaXRodWIuY29tIn0=">
+    <meta name="js-proxy-site-detection-payload" content="N2E0NzY5MDJhOTNiNDAwYmQ4ZmM3MDQzYjFlYjYxMmYxZDNmNGU1MjVlMjRiMzUzYjQ2MzQyMGE2ODRkOGYwNnx7InJlbW90ZV9hZGRyZXNzIjoiMTIyLjEwNy43NC4xNTMiLCJyZXF1ZXN0X2lkIjoiRTBCNzoyQjBBNDozQkJGRDJCOjVCMkJFMEM6NTk0RkI2MjgiLCJ0aW1lc3RhbXAiOjE0OTgzOTYyMDYsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
 
   <meta name="html-safe-nonce" content="97dba7da9aa3ef2bd8cd06259f4276c1646fd14c">
@@ -71,15 +71,15 @@
   <meta http-equiv="x-pjax-version" content="7039cffd56d59000fe2f72ed257ce22a">
   
 
-      <link href="https://github.com/awulfes/RepData_PeerAssessment1/commits/master.atom" rel="alternate" title="Recent Commits to RepData_PeerAssessment1:master" type="application/atom+xml">
+      <link href="https://github.com/sujitdas9960/RepData_PeerAssessment1/commits/master.atom" rel="alternate" title="Recent Commits to RepData_PeerAssessment1:master" type="application/atom+xml">
 
   <meta name="description" content="Contribute to RepData_PeerAssessment1 development by creating an account on GitHub.">
-  <meta name="go-import" content="github.com/awulfes/RepData_PeerAssessment1 git https://github.com/awulfes/RepData_PeerAssessment1.git">
+  <meta name="go-import" content="github.com/sujitdas9960/RepData_PeerAssessment1 git https://github.com/sujitdas9960/RepData_PeerAssessment1.git">
 
-  <meta content="25174955" name="octolytics-dimension-user_id" /><meta content="awulfes" name="octolytics-dimension-user_login" /><meta content="89850377" name="octolytics-dimension-repository_id" /><meta content="awulfes/RepData_PeerAssessment1" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="89850377" name="octolytics-dimension-repository_network_root_id" /><meta content="awulfes/RepData_PeerAssessment1" name="octolytics-dimension-repository_network_root_nwo" /><meta content="false" name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" />
+  <meta content="23091419" name="octolytics-dimension-user_id" /><meta content="sujitdas9960" name="octolytics-dimension-user_login" /><meta content="79695571" name="octolytics-dimension-repository_id" /><meta content="sujitdas9960/RepData_PeerAssessment1" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="79695571" name="octolytics-dimension-repository_network_root_id" /><meta content="sujitdas9960/RepData_PeerAssessment1" name="octolytics-dimension-repository_network_root_nwo" /><meta content="false" name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" />
 
 
-    <link rel="canonical" href="https://github.com/awulfes/RepData_PeerAssessment1/blob/master/PA1_template.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/sujitdas9960/RepData_PeerAssessment1/blob/master/PA1_template.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -120,9 +120,9 @@
 
 
         <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/awulfes/RepData_PeerAssessment1/search" class="js-site-search-form" data-scoped-search-url="/awulfes/RepData_PeerAssessment1/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/sujitdas9960/RepData_PeerAssessment1/search" class="js-site-search-form" data-scoped-search-url="/sujitdas9960/RepData_PeerAssessment1/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
     <label class="form-control header-search-wrapper js-chromeless-input-container">
-        <a href="/awulfes/RepData_PeerAssessment1/blob/master/PA1_template.md" class="header-search-scope no-underline">This repository</a>
+        <a href="/sujitdas9960/RepData_PeerAssessment1/blob/master/PA1_template.md" class="header-search-scope no-underline">This repository</a>
       <input type="text"
         class="form-control header-search-input js-site-search-focus js-site-search-field is-clearable"
         data-hotkey="s"
@@ -196,9 +196,9 @@
 
   <div class="dropdown-divider"></div>
   <div class="dropdown-header">
-    <span title="awulfes/RepData_PeerAssessment1">This repository</span>
+    <span title="sujitdas9960/RepData_PeerAssessment1">This repository</span>
   </div>
-    <a class="dropdown-item" href="/awulfes/RepData_PeerAssessment1/issues/new" data-ga-click="Header, create new issue">
+    <a class="dropdown-item" href="/sujitdas9960/RepData_PeerAssessment1/issues/new" data-ga-click="Header, create new issue">
       New issue
     </a>
 
@@ -243,7 +243,7 @@
           Settings
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="7BrEfkgU3SRGBwU+n70fz0SuzhDKyp2M8s3106wK3oNGdUr1dd1MdasmriIIjlZeBKMveBNgC/AAOgXbr7p5Ug==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="yqmJbu7doxheZf6TF+GlSNoQ4kwC8Ulp+quYDFYCsKdgxgfl0xQySbNEVY+A0uzZmh0DJNtb3xUIXGgEVbIXdg==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -253,7 +253,7 @@
 </ul>
 
 
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="QE0QxrKCdeZ66y5Aelro7OUzlCN+2iqyIgSgDCy0COLqIp5Nj0vkt5fKhVztaaF9pT51S6dwvM7Q81AELwSvMw==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="dNnlJvUFbxNiG88VzhZDGqowJWLTvrHHOticlaUKTPjetmutyMz+Qo86ZAlZJQqL6j3ECgoUJ7vIL2ydprrrKQ==" /></div>
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
         Sign out
       </button>
@@ -285,10 +285,10 @@
 
         <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="s8+xfLuByV4hJyG+JhySBN6fwfgpRK3FZLKerRGKMZnhVkgHBjGPNt5Ryaa1aiO8f4PeImRjhA65qyZdiagwcg==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="89850377" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="4Wv1bh1quismg/ZA6hahXEAcqkXJC5Q1Db9SuYytHbOz8gwVoNr8Q9n1Hlh5YBDk4QC1n4Qsvf7QpupJFI8cWA==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="79695571" />
 
         <div class="select-menu js-menu-container js-select-menu">
-          <a href="/awulfes/RepData_PeerAssessment1/subscription"
+          <a href="/sujitdas9960/RepData_PeerAssessment1/subscription"
             class="btn btn-sm btn-with-count select-menu-button js-menu-target"
             role="button"
             aria-haspopup="true"
@@ -301,7 +301,7 @@
             </span>
           </a>
             <a class="social-count js-social-count"
-              href="/awulfes/RepData_PeerAssessment1/watchers"
+              href="/sujitdas9960/RepData_PeerAssessment1/watchers"
               aria-label="0 users are watching this repository">
               0
             </a>
@@ -364,30 +364,30 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/awulfes/RepData_PeerAssessment1/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="xoWOJK36ZDTPK2JIa+z7DhRZWIOpvimQIjyxVY1Czzn/CtsCl9EzErPMHPidS3aTDaOE9dRyydWqgR0KK2XNkw==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/sujitdas9960/RepData_PeerAssessment1/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="+36Jh0qJNb2aKPAsT+zgylEq3W4wTrpWejppoT+F8XALcYsRC1Bn3ydzsB+cVZ9UJ9GAyhJmTuVYAj9yoD4YnA==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
-        aria-label="Unstar this repository" title="Unstar awulfes/RepData_PeerAssessment1"
+        aria-label="Unstar this repository" title="Unstar sujitdas9960/RepData_PeerAssessment1"
         data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">
         <svg aria-hidden="true" class="octicon octicon-star" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"/></svg>
         Unstar
       </button>
-        <a class="social-count js-social-count" href="/awulfes/RepData_PeerAssessment1/stargazers"
+        <a class="social-count js-social-count" href="/sujitdas9960/RepData_PeerAssessment1/stargazers"
            aria-label="0 users starred this repository">
           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/awulfes/RepData_PeerAssessment1/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Tm/WMaYG0alIqpmRPkgSxWbwiB0br8LanSV52F6uhiTlhvAxqw5dlCFOBl47lGGFcsHMbwlEZOzmuJei0d6oMQ==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/sujitdas9960/RepData_PeerAssessment1/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="vr1RABcarX8LjwV6WXdV8RZLFgi6CKu+Q3zDW0FLNS7BuH8Rw9F28TBxbLYbE6S+Wm27T0z5GbIMpZpoIXx+fw==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
-        aria-label="Star this repository" title="Star awulfes/RepData_PeerAssessment1"
+        aria-label="Star this repository" title="Star sujitdas9960/RepData_PeerAssessment1"
         data-ga-click="Repository, click star button, action:blob#show; text:Star">
         <svg aria-hidden="true" class="octicon octicon-star" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"/></svg>
         Star
       </button>
-        <a class="social-count js-social-count" href="/awulfes/RepData_PeerAssessment1/stargazers"
+        <a class="social-count js-social-count" href="/sujitdas9960/RepData_PeerAssessment1/stargazers"
            aria-label="0 users starred this repository">
           0
         </a>
@@ -396,18 +396,18 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/awulfes/RepData_PeerAssessment1/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Y4HPTx+6NcRlBLltb9ETfhfj7tpT/l0JevmtzLiOg3ta7znlsyqmbV0hkT+yUyMzSK8icN8pvr+fx4BOWYJcFg==" /></div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/sujitdas9960/RepData_PeerAssessment1/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="bC9gpoLLEFom7eJtxmaRTi7FK2O7h5mlh2ehuWhBHSA1uyD2d9S0qb20euP1SaXBorgnDPI9EkldaAYam3Kvjg==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
                 data-ga-click="Repository, show fork modal, action:blob#show; text:Fork"
-                title="Fork your own copy of awulfes/RepData_PeerAssessment1 to your account"
-                aria-label="Fork your own copy of awulfes/RepData_PeerAssessment1 to your account">
+                title="Fork your own copy of sujitdas9960/RepData_PeerAssessment1 to your account"
+                aria-label="Fork your own copy of sujitdas9960/RepData_PeerAssessment1 to your account">
               <svg aria-hidden="true" class="octicon octicon-repo-forked" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
               Fork
             </button>
 </form>
-    <a href="/awulfes/RepData_PeerAssessment1/network" class="social-count"
+    <a href="/sujitdas9960/RepData_PeerAssessment1/network" class="social-count"
        aria-label="0 users forked this repository">
       0
     </a>
@@ -416,9 +416,9 @@
 
         <h1 class="public ">
   <svg aria-hidden="true" class="octicon octicon-repo" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
-  <span class="author" itemprop="author"><a href="/awulfes" class="url fn" rel="author">awulfes</a></span><!--
+  <span class="author" itemprop="author"><a href="/sujitdas9960" class="url fn" rel="author">sujitdas9960</a></span><!--
 --><span class="path-divider">/</span><!--
---><strong itemprop="name"><a href="/awulfes/RepData_PeerAssessment1" data-pjax="#js-repo-pjax-container">RepData_PeerAssessment1</a></strong>
+--><strong itemprop="name"><a href="/sujitdas9960/RepData_PeerAssessment1" data-pjax="#js-repo-pjax-container">RepData_PeerAssessment1</a></strong>
 
 </h1>
 
@@ -432,14 +432,14 @@
      data-pjax="#js-repo-pjax-container">
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a href="/awulfes/RepData_PeerAssessment1" class="js-selected-navigation-item selected reponav-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /awulfes/RepData_PeerAssessment1" itemprop="url">
+    <a href="/sujitdas9960/RepData_PeerAssessment1" class="js-selected-navigation-item selected reponav-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /sujitdas9960/RepData_PeerAssessment1" itemprop="url">
       <svg aria-hidden="true" class="octicon octicon-code" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
       <span itemprop="name">Code</span>
       <meta itemprop="position" content="1">
 </a>  </span>
 
     <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-      <a href="/awulfes/RepData_PeerAssessment1/issues" class="js-selected-navigation-item reponav-item" data-hotkey="g i" data-selected-links="repo_issues repo_labels repo_milestones /awulfes/RepData_PeerAssessment1/issues" itemprop="url">
+      <a href="/sujitdas9960/RepData_PeerAssessment1/issues" class="js-selected-navigation-item reponav-item" data-hotkey="g i" data-selected-links="repo_issues repo_labels repo_milestones /sujitdas9960/RepData_PeerAssessment1/issues" itemprop="url">
         <svg aria-hidden="true" class="octicon octicon-issue-opened" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
         <span itemprop="name">Issues</span>
         <span class="Counter">0</span>
@@ -447,19 +447,19 @@
 </a>    </span>
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a href="/awulfes/RepData_PeerAssessment1/pulls" class="js-selected-navigation-item reponav-item" data-hotkey="g p" data-selected-links="repo_pulls /awulfes/RepData_PeerAssessment1/pulls" itemprop="url">
+    <a href="/sujitdas9960/RepData_PeerAssessment1/pulls" class="js-selected-navigation-item reponav-item" data-hotkey="g p" data-selected-links="repo_pulls /sujitdas9960/RepData_PeerAssessment1/pulls" itemprop="url">
       <svg aria-hidden="true" class="octicon octicon-git-pull-request" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
       <span itemprop="name">Pull requests</span>
       <span class="Counter">0</span>
       <meta itemprop="position" content="3">
 </a>  </span>
 
-    <a href="/awulfes/RepData_PeerAssessment1/projects" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /awulfes/RepData_PeerAssessment1/projects">
+    <a href="/sujitdas9960/RepData_PeerAssessment1/projects" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /sujitdas9960/RepData_PeerAssessment1/projects">
       <svg aria-hidden="true" class="octicon octicon-project" height="16" version="1.1" viewBox="0 0 15 16" width="15"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
       Projects
       <span class="Counter" >0</span>
 </a>
-    <a href="/awulfes/RepData_PeerAssessment1/wiki" class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /awulfes/RepData_PeerAssessment1/wiki">
+    <a href="/sujitdas9960/RepData_PeerAssessment1/wiki" class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /sujitdas9960/RepData_PeerAssessment1/wiki">
       <svg aria-hidden="true" class="octicon octicon-book" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"/></svg>
       Wiki
 </a>
@@ -471,11 +471,11 @@
       </button>
       <div class="dropdown-menu-content js-menu-content">
         <div class="dropdown-menu dropdown-menu-sw">
-          <a class="dropdown-item" href="/awulfes/RepData_PeerAssessment1/pulse" data-skip-pjax>
+          <a class="dropdown-item" href="/sujitdas9960/RepData_PeerAssessment1/pulse" data-skip-pjax>
             <svg aria-hidden="true" class="octicon octicon-pulse" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M11.5 8L8.8 5.4 6.6 8.5 5.5 1.6 2.38 8H0v2h3.6l.9-1.8.9 5.4L9 8.5l1.6 1.5H14V8z"/></svg>
             Pulse
           </a>
-          <a class="dropdown-item" href="/awulfes/RepData_PeerAssessment1/graphs" data-skip-pjax>
+          <a class="dropdown-item" href="/sujitdas9960/RepData_PeerAssessment1/graphs" data-skip-pjax>
             <svg aria-hidden="true" class="octicon octicon-graph" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg>
             Graphs
           </a>
@@ -491,9 +491,9 @@
   <div class="repository-content">
 
     
-  <a href="/awulfes/RepData_PeerAssessment1/blob/480bdb0af0d8c510f025e08710da0ecbd08eccee/PA1_template.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
+  <a href="/sujitdas9960/RepData_PeerAssessment1/blob/643784deb582e7497cc0a57b681de16502a1836c/PA1_template.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-  <!-- blob contrib key: blob_contributors:v21:0556c1093e48802b13b01d3e9d34c8be -->
+  <!-- blob contrib key: blob_contributors:v21:3efd09151a570a57df6dcfa4c1431084 -->
 
   <div class="file-navigation js-zeroclipboard-container">
     
@@ -535,7 +535,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/awulfes/RepData_PeerAssessment1/blob/master/PA1_template.md"
+               href="/sujitdas9960/RepData_PeerAssessment1/blob/master/PA1_template.md"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -563,7 +563,7 @@
 </div>
 
     <div class="BtnGroup float-right">
-      <a href="/awulfes/RepData_PeerAssessment1/find/master"
+      <a href="/sujitdas9960/RepData_PeerAssessment1/find/master"
             class="js-pjax-capture-input btn btn-sm BtnGroup-item"
             data-pjax
             data-hotkey="t">
@@ -572,12 +572,12 @@
       <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm BtnGroup-item tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
     </div>
     <div class="breadcrumb js-zeroclipboard-target">
-      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/awulfes/RepData_PeerAssessment1"><span>RepData_PeerAssessment1</span></a></span></span><span class="separator">/</span><strong class="final-path">PA1_template.md</strong>
+      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/sujitdas9960/RepData_PeerAssessment1"><span>RepData_PeerAssessment1</span></a></span></span><span class="separator">/</span><strong class="final-path">PA1_template.md</strong>
     </div>
   </div>
 
 
-  <include-fragment class="commit-tease" src="/awulfes/RepData_PeerAssessment1/contributors/master/PA1_template.md">
+  <include-fragment class="commit-tease" src="/sujitdas9960/RepData_PeerAssessment1/contributors/master/PA1_template.md">
     <div>
       Fetching contributors&hellip;
     </div>
@@ -592,9 +592,9 @@
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a href="/awulfes/RepData_PeerAssessment1/raw/master/PA1_template.md" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
-        <a href="/awulfes/RepData_PeerAssessment1/blame/master/PA1_template.md" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
-      <a href="/awulfes/RepData_PeerAssessment1/commits/master/PA1_template.md" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
+      <a href="/sujitdas9960/RepData_PeerAssessment1/raw/master/PA1_template.md" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
+        <a href="/sujitdas9960/RepData_PeerAssessment1/blame/master/PA1_template.md" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
+      <a href="/sujitdas9960/RepData_PeerAssessment1/commits/master/PA1_template.md" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
@@ -604,12 +604,12 @@
             <svg aria-hidden="true" class="octicon octicon-device-desktop" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/awulfes/RepData_PeerAssessment1/edit/master/PA1_template.md" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="DwkDLTccPMp/0YB0as3h8jsg/kGvzw9DxAZ2IFC+hhntr4Kuyfp4tvlqoTwTQycSXJdyYtqR1yn2RatsmUJqiA==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/sujitdas9960/RepData_PeerAssessment1/edit/master/PA1_template.md" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="dXqWKdqq1VFfOcRAb9Y2jovnALB9AK0QlYKO2VqVg06fsnunfzTlYSx2BW8irXGEinpQ0BNl0ZcPpg4iAyOgfQ==" /></div>
           <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
           </button>
-</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/awulfes/RepData_PeerAssessment1/delete/master/PA1_template.md" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="zYV3hScfKufLFRnbtAzODPFh9hdzCXChtCfKRnCJhhKANS9My6c1C+pUjMlL9nEZDwXgmPs5ahYdModje2ML9A==" /></div>
+</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/sujitdas9960/RepData_PeerAssessment1/delete/master/PA1_template.md" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="oN93/kr4Ku2S5k1+3dhm79dT+TkhUtFDXrrVocc08L8CksreyJwD+DNd90aX4+B9+52D56TbRMee9ayLFPSFVw==" /></div>
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and delete the file" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -617,127 +617,100 @@
 </form>  </div>
 
   <div class="file-info">
-      226 lines (144 sloc)
+      122 lines (97 sloc)
       <span class="file-info-divider"></span>
-    4.85 KB
+    4.1 KB
   </div>
 </div>
 
     
   <div id="readme" class="readme blob instapaper_body">
-    <article class="markdown-body entry-content" itemprop="text"><h1><a id="user-content-coursera-jhu-reproducible-research-course---project-week-1" class="anchor" href="#coursera-jhu-reproducible-research-course---project-week-1" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Coursera JHU Reproducible Research course - Project Week 1</h1>
-<h2><a id="user-content-1-code-for-reading-in-the-dataset-andor-processing-the-data" class="anchor" href="#1-code-for-reading-in-the-dataset-andor-processing-the-data" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>1. Code for reading in the dataset and/or processing the data</h2>
-<p>The following code assumes that the zipped dataset is available in a "data" subfolder of the current working directory. The data is read to two data frames with and without NA values.</p>
-<div class="highlight highlight-source-r"><pre>unzip(<span class="pl-v">zipfile</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>./data/repdata_data_activity.zip<span class="pl-pds">"</span></span>, <span class="pl-v">files</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>activity.csv<span class="pl-pds">"</span></span>, <span class="pl-v">exdir</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>./data<span class="pl-pds">"</span></span>)
-<span class="pl-smi">activity</span> <span class="pl-k">&lt;-</span> read.csv(<span class="pl-s"><span class="pl-pds">"</span>./data/activity.csv<span class="pl-pds">"</span></span>)
+    <article class="markdown-body entry-content" itemprop="text"><h1><a id="user-content-reproducible-research-peer-assessment-1" class="anchor" href="#reproducible-research-peer-assessment-1" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Reproducible Research: Peer Assessment 1</h1>
+<div class="highlight highlight-source-r"><pre><span class="pl-c"><span class="pl-c">#</span>#Set global options</span>
+library(<span class="pl-smi">knitr</span>)
+<span class="pl-smi">opts_chunk</span><span class="pl-k">$</span>set(<span class="pl-v">echo</span><span class="pl-k">=</span><span class="pl-c1">TRUE</span>)
+options(<span class="pl-v">scipen</span> <span class="pl-k">=</span> <span class="pl-c1">999</span>, <span class="pl-v">digits</span> <span class="pl-k">=</span> <span class="pl-c1">4</span>)</pre></div>
+<h2><a id="user-content-loading-and-preprocessing-the-data" class="anchor" href="#loading-and-preprocessing-the-data" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Loading and preprocessing the data</h2>
+<div class="highlight highlight-source-r"><pre><span class="pl-c"><span class="pl-c">#</span>#Load data from CSV and plot histogram of total steps taken each day</span>
+<span class="pl-smi">activityDF</span> <span class="pl-k">&lt;-</span> read.csv(<span class="pl-s"><span class="pl-pds">"</span>activity.csv<span class="pl-pds">"</span></span>)
+<span class="pl-smi">stepsByDay</span> <span class="pl-k">&lt;-</span> aggregate(<span class="pl-smi">activityDF</span><span class="pl-k">$</span><span class="pl-smi">steps</span>, <span class="pl-v">by</span> <span class="pl-k">=</span> <span class="pl-k">list</span>(<span class="pl-v">date</span> <span class="pl-k">=</span> <span class="pl-smi">activityDF</span><span class="pl-k">$</span><span class="pl-smi">date</span>),
+                        <span class="pl-v">FUN</span> <span class="pl-k">=</span> <span class="pl-smi">sum</span>, <span class="pl-v">na.rm</span> <span class="pl-k">=</span> <span class="pl-c1">TRUE</span>)
+hist(<span class="pl-smi">stepsByDay</span><span class="pl-k">$</span><span class="pl-smi">x</span>, <span class="pl-v">col</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>red<span class="pl-pds">"</span></span>, <span class="pl-v">xlab</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>Total number of steps taken each day<span class="pl-pds">"</span></span>,
+     <span class="pl-v">main</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>Histogram of total number of steps taken each day<span class="pl-pds">"</span></span>)</pre></div>
+<p><a href="/sujitdas9960/RepData_PeerAssessment1/blob/master/PA1_template_files/figure-html/loadData_hist-1.png" target="_blank"><img src="/sujitdas9960/RepData_PeerAssessment1/raw/master/PA1_template_files/figure-html/loadData_hist-1.png" alt="" style="max-width:100%;"></a></p>
+<h2><a id="user-content-what-is-mean-total-number-of-steps-taken-per-day" class="anchor" href="#what-is-mean-total-number-of-steps-taken-per-day" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>What is mean total number of steps taken per day?</h2>
+<div class="highlight highlight-source-r"><pre><span class="pl-c"><span class="pl-c">#</span>#Compute mean and median of total steps taken each day</span>
+<span class="pl-smi">meanStepsByDay</span> <span class="pl-k">&lt;-</span> mean(<span class="pl-smi">stepsByDay</span><span class="pl-k">$</span><span class="pl-smi">x</span>)
+<span class="pl-smi">medianStepsByDay</span> <span class="pl-k">&lt;-</span> median(<span class="pl-smi">stepsByDay</span><span class="pl-k">$</span><span class="pl-smi">x</span>)</pre></div>
+<p>Mean number of steps taken each day = 9354.2295<br>
+Median number of steps taken each day = 10395</p>
+<h2><a id="user-content-what-is-the-average-daily-activity-pattern" class="anchor" href="#what-is-the-average-daily-activity-pattern" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>What is the average daily activity pattern?</h2>
+<div class="highlight highlight-source-r"><pre><span class="pl-c"><span class="pl-c">#</span>#Compute average 5 min interval steps across all days, its max value and plot</span>
+<span class="pl-c"><span class="pl-c">#</span>#the 5 min interval average steps</span>
+<span class="pl-smi">stepsBy5MinInt</span> <span class="pl-k">&lt;-</span> aggregate(<span class="pl-smi">activityDF</span><span class="pl-k">$</span><span class="pl-smi">steps</span>, <span class="pl-v">by</span> <span class="pl-k">=</span> <span class="pl-k">list</span>(<span class="pl-v">interval</span> <span class="pl-k">=</span>
+                        <span class="pl-smi">activityDF</span><span class="pl-k">$</span><span class="pl-smi">interval</span>), <span class="pl-v">FUN</span> <span class="pl-k">=</span> <span class="pl-smi">mean</span>, <span class="pl-v">na.rm</span> <span class="pl-k">=</span> <span class="pl-c1">TRUE</span>)
+plot(<span class="pl-smi">stepsBy5MinInt</span><span class="pl-k">$</span><span class="pl-smi">interval</span>, <span class="pl-smi">stepsBy5MinInt</span><span class="pl-k">$</span><span class="pl-smi">x</span>, <span class="pl-v">type</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>l<span class="pl-pds">"</span></span>,
+     <span class="pl-v">ylab</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>5 min average steps<span class="pl-pds">"</span></span>, <span class="pl-v">xlab</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>5 min interval<span class="pl-pds">"</span></span>,
+     <span class="pl-v">main</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>5 min average steps across all days<span class="pl-pds">"</span></span>)</pre></div>
+<p><a href="/sujitdas9960/RepData_PeerAssessment1/blob/master/PA1_template_files/figure-html/meanSteps_plot-1.png" target="_blank"><img src="/sujitdas9960/RepData_PeerAssessment1/raw/master/PA1_template_files/figure-html/meanSteps_plot-1.png" alt="" style="max-width:100%;"></a></p>
+<div class="highlight highlight-source-r"><pre><span class="pl-smi">maxStep</span> <span class="pl-k">&lt;-</span> max(<span class="pl-smi">stepsBy5MinInt</span><span class="pl-k">$</span><span class="pl-smi">x</span>)
+<span class="pl-smi">max5MinInt</span> <span class="pl-k">&lt;-</span> <span class="pl-smi">stepsBy5MinInt</span>[which(<span class="pl-smi">stepsBy5MinInt</span><span class="pl-k">$</span><span class="pl-smi">x</span> <span class="pl-k">==</span> <span class="pl-smi">maxStep</span>),]<span class="pl-k">$</span><span class="pl-smi">interval</span></pre></div>
+<p>5-minute interval, on average across all the days in the dataset, contains the
+maximum number of steps = 835</p>
+<h2><a id="user-content-imputing-missing-values" class="anchor" href="#imputing-missing-values" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Imputing missing values</h2>
+<div class="highlight highlight-source-r"><pre><span class="pl-c"><span class="pl-c">#</span>#Missing value imputed using mean value, averaged across all days, for the</span>
+<span class="pl-c"><span class="pl-c">#</span>#given interval</span>
+<span class="pl-smi">good</span> <span class="pl-k">&lt;-</span> complete.cases(<span class="pl-smi">activityDF</span>)
+<span class="pl-smi">missingCount</span> <span class="pl-k">&lt;-</span> nrow(<span class="pl-smi">activityDF</span>[<span class="pl-k">!</span><span class="pl-smi">good</span>, ])
+<span class="pl-smi">avgStepsByInt</span> <span class="pl-k">&lt;-</span> aggregate(<span class="pl-smi">activityDF</span><span class="pl-k">$</span><span class="pl-smi">steps</span>, <span class="pl-v">by</span> <span class="pl-k">=</span> <span class="pl-k">list</span>(<span class="pl-v">interval</span> <span class="pl-k">=</span> <span class="pl-smi">activityDF</span><span class="pl-k">$</span><span class="pl-smi">interval</span>),
+                        <span class="pl-v">FUN</span> <span class="pl-k">=</span> <span class="pl-smi">mean</span>, <span class="pl-v">na.rm</span> <span class="pl-k">=</span> <span class="pl-c1">TRUE</span>)
 
-<span class="pl-c"><span class="pl-c">#</span> remove NA</span>
-<span class="pl-smi">actNaOmit</span> <span class="pl-k">&lt;-</span> na.omit(<span class="pl-smi">activity</span>)</pre></div>
-<h2><a id="user-content-2-histogram-of-the-total-number-of-steps-taken-each-day" class="anchor" href="#2-histogram-of-the-total-number-of-steps-taken-each-day" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>2. Histogram of the total number of steps taken each day</h2>
-<p>The histogram is created on the data without NAs.</p>
-<div class="highlight highlight-source-r"><pre><span class="pl-smi">stepsPerDay</span> <span class="pl-k">&lt;-</span> aggregate(<span class="pl-smi">actNaOmit</span><span class="pl-k">$</span><span class="pl-smi">steps</span>, <span class="pl-k">list</span>(<span class="pl-smi">actNaOmit</span><span class="pl-k">$</span><span class="pl-smi">date</span>), <span class="pl-smi">sum</span>)
-colnames(<span class="pl-smi">stepsPerDay</span>) <span class="pl-k">&lt;-</span> c(<span class="pl-s"><span class="pl-pds">"</span>date<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>steps<span class="pl-pds">"</span></span>)
-hist(<span class="pl-smi">stepsPerDay</span><span class="pl-k">$</span><span class="pl-smi">steps</span>, <span class="pl-v">breaks</span> <span class="pl-k">=</span> <span class="pl-c1">15</span>, <span class="pl-v">main</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>Number of Steps per day<span class="pl-pds">"</span></span>, 
-     <span class="pl-v">xlab</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>Sum of steps taken<span class="pl-pds">"</span></span>, <span class="pl-v">ylab</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>Days<span class="pl-pds">"</span></span>)</pre></div>
-<p>![](PA1_template_files/figure-html/steps per day-1.png)</p>
-<h2><a id="user-content-3-mean-and-median-number-of-steps-taken-each-day" class="anchor" href="#3-mean-and-median-number-of-steps-taken-each-day" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>3. Mean and median number of steps taken each day</h2>
-<p>Mean of number of steps:</p>
-<div class="highlight highlight-source-r"><pre><span class="pl-smi">mean1</span> <span class="pl-k">&lt;-</span> mean(<span class="pl-smi">stepsPerDay</span><span class="pl-k">$</span><span class="pl-smi">steps</span>, <span class="pl-v">na.rm</span> <span class="pl-k">=</span> <span class="pl-c1">TRUE</span>)
-<span class="pl-smi">mean1</span></pre></div>
-<pre><code>## [1] 10766.19
-</code></pre>
-<p>Median of number of steps:</p>
-<div class="highlight highlight-source-r"><pre><span class="pl-smi">median1</span> <span class="pl-k">&lt;-</span> median(<span class="pl-smi">stepsPerDay</span><span class="pl-k">$</span><span class="pl-smi">steps</span>, <span class="pl-v">na.rm</span> <span class="pl-k">=</span> <span class="pl-c1">TRUE</span>)
-<span class="pl-smi">median1</span></pre></div>
-<pre><code>## [1] 10765
-</code></pre>
-<p>General summary:</p>
-<div class="highlight highlight-source-r"><pre>summary(<span class="pl-smi">stepsPerDay</span><span class="pl-k">$</span><span class="pl-smi">steps</span>)</pre></div>
-<pre><code>##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-##      41    8841   10760   10770   13290   21190
-</code></pre>
-<h2><a id="user-content-4-time-series-plot-of-the-average-number-of-steps-taken" class="anchor" href="#4-time-series-plot-of-the-average-number-of-steps-taken" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>4. Time series plot of the average number of steps taken</h2>
-<div class="highlight highlight-source-r"><pre><span class="pl-c"><span class="pl-c">#</span> caluclate avg steps per interval</span>
-<span class="pl-smi">avgInt</span> <span class="pl-k">&lt;-</span> aggregate(<span class="pl-smi">actNaOmit</span><span class="pl-k">$</span><span class="pl-smi">steps</span>, <span class="pl-k">list</span>(<span class="pl-smi">actNaOmit</span><span class="pl-k">$</span><span class="pl-smi">interval</span>), <span class="pl-smi">mean</span>)
-colnames(<span class="pl-smi">avgInt</span>) <span class="pl-k">&lt;-</span> c(<span class="pl-s"><span class="pl-pds">"</span>Interval<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>AvgNumSteps<span class="pl-pds">"</span></span>)
-
-<span class="pl-c"><span class="pl-c">#</span> plot time series</span>
-plot(<span class="pl-smi">avgInt</span><span class="pl-k">$</span><span class="pl-smi">Interval</span>, <span class="pl-smi">avgInt</span><span class="pl-k">$</span><span class="pl-smi">AvgNumSteps</span>,<span class="pl-v">axes</span> <span class="pl-k">=</span> <span class="pl-c1">F</span>, <span class="pl-v">type</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>l<span class="pl-pds">"</span></span>, <span class="pl-v">xlab</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>Time interval<span class="pl-pds">"</span></span>, <span class="pl-v">ylab</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>Average Number of Steps<span class="pl-pds">"</span></span>, <span class="pl-v">main</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>Average Daily Activity<span class="pl-pds">"</span></span>)
-axis(<span class="pl-c1">1</span>,<span class="pl-v">at</span><span class="pl-k">=</span>c(<span class="pl-c1">0</span>,<span class="pl-c1">300</span>, <span class="pl-c1">600</span>, <span class="pl-c1">900</span>, <span class="pl-c1">1200</span>, <span class="pl-c1">1500</span>, <span class="pl-c1">1800</span>, <span class="pl-c1">2100</span>, <span class="pl-c1">2400</span>), <span class="pl-v">label</span> <span class="pl-k">=</span> c(<span class="pl-s"><span class="pl-pds">"</span>0:00<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>03:00<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>6:00<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>09:00<span class="pl-pds">"</span></span>,<span class="pl-s"><span class="pl-pds">"</span>12:00<span class="pl-pds">"</span></span>,<span class="pl-s"><span class="pl-pds">"</span>15:00<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>18:00<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>21:00<span class="pl-pds">"</span></span>,<span class="pl-s"><span class="pl-pds">"</span>24:00<span class="pl-pds">"</span></span>))
-axis(<span class="pl-c1">2</span>)</pre></div>
-<p>![](PA1_template_files/figure-html/averages per interval-1.png)</p>
-<h2><a id="user-content-5-the-5-minute-interval-that-on-average-contains-the-maximum-number-of-steps" class="anchor" href="#5-the-5-minute-interval-that-on-average-contains-the-maximum-number-of-steps" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>5. The 5-minute interval that, on average, contains the maximum number of steps</h2>
-<p>The interval with the average number of steps is:</p>
-<div class="highlight highlight-source-r"><pre><span class="pl-smi">avgInt</span>[which.max(<span class="pl-smi">avgInt</span><span class="pl-k">$</span><span class="pl-smi">AvgNumSteps</span>),]</pre></div>
-<pre><code>##     Interval AvgNumSteps
-## 104      835    206.1698
-</code></pre>
-<p>It is the interval from 08:35-08:40.</p>
-<h2><a id="user-content-6-code-to-describe-and-show-a-strategy-for-imputing-missing-data" class="anchor" href="#6-code-to-describe-and-show-a-strategy-for-imputing-missing-data" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>6. Code to describe and show a strategy for imputing missing data</h2>
-<p>Chosen approach: Fill in missing values with the average for the time intervals</p>
-<div class="highlight highlight-source-r"><pre><span class="pl-smi">imputedData</span> <span class="pl-k">&lt;-</span> <span class="pl-smi">activity</span>
-
-<span class="pl-c"><span class="pl-c">#</span> function to impute if necessary</span>
-<span class="pl-en">impute</span> <span class="pl-k">&lt;-</span> <span class="pl-k">function</span> (<span class="pl-smi">a</span>, <span class="pl-smi">a.impute</span>){
-  ifelse (is.na(<span class="pl-smi">a</span>), <span class="pl-smi">a.impute</span>, <span class="pl-smi">a</span>)
+<span class="pl-smi">len</span> <span class="pl-k">&lt;-</span> nrow(<span class="pl-smi">activityDF</span>)
+<span class="pl-smi">stepsFilled</span> <span class="pl-k">&lt;-</span> vector(<span class="pl-v">mode</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>integer<span class="pl-pds">"</span></span>, <span class="pl-v">length</span> <span class="pl-k">=</span> <span class="pl-smi">len</span>)
+<span class="pl-k">for</span> (<span class="pl-smi">i</span> <span class="pl-k">in</span> <span class="pl-c1">1</span><span class="pl-k">:</span><span class="pl-smi">len</span>) {
+        <span class="pl-k">if</span> (is.na(<span class="pl-smi">activityDF</span><span class="pl-k">$</span><span class="pl-smi">steps</span>[<span class="pl-smi">i</span>])) {
+                <span class="pl-smi">indx</span> <span class="pl-k">&lt;-</span> which(<span class="pl-smi">avgStepsByInt</span><span class="pl-k">$</span><span class="pl-smi">interval</span> <span class="pl-k">==</span> <span class="pl-smi">activityDF</span><span class="pl-k">$</span><span class="pl-smi">interval</span>[<span class="pl-smi">i</span>])
+                <span class="pl-k">if</span> (<span class="pl-k">!</span>is.nan(<span class="pl-smi">avgStepsByInt</span><span class="pl-k">$</span><span class="pl-smi">x</span>[<span class="pl-smi">indx</span>]))     {
+                        <span class="pl-smi">stepsFilled</span>[<span class="pl-smi">i</span>] <span class="pl-k">&lt;-</span> round(<span class="pl-smi">avgStepsByInt</span><span class="pl-k">$</span><span class="pl-smi">x</span>[<span class="pl-smi">indx</span>])
+                }
+                <span class="pl-k">else</span>    {
+                        <span class="pl-smi">stepsFilled</span>[<span class="pl-smi">i</span>] <span class="pl-k">&lt;-</span> <span class="pl-c1">0</span>
+                }
+        }
+        <span class="pl-k">else</span>    {
+                <span class="pl-smi">stepsFilled</span>[<span class="pl-smi">i</span>] <span class="pl-k">&lt;-</span> <span class="pl-smi">activityDF</span><span class="pl-k">$</span><span class="pl-smi">steps</span>[<span class="pl-smi">i</span>]
+        }
 }
 
-<span class="pl-c"><span class="pl-c">#</span> tmp vector</span>
-<span class="pl-smi">avg1</span> <span class="pl-k">&lt;-</span> vector(<span class="pl-v">mode</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>numeric<span class="pl-pds">"</span></span>, <span class="pl-v">length</span><span class="pl-k">=</span><span class="pl-c1">0</span>)
+<span class="pl-smi">filledActivityDF</span> <span class="pl-k">&lt;-</span> <span class="pl-smi">activityDF</span>
+<span class="pl-smi">filledActivityDF</span><span class="pl-k">$</span><span class="pl-smi">steps</span> <span class="pl-k">&lt;-</span> <span class="pl-smi">stepsFilled</span>
+<span class="pl-smi">stepsByDay</span> <span class="pl-k">&lt;-</span> aggregate(<span class="pl-smi">filledActivityDF</span><span class="pl-k">$</span><span class="pl-smi">steps</span>, <span class="pl-v">by</span> <span class="pl-k">=</span> 
+                                <span class="pl-k">list</span>(<span class="pl-v">date</span> <span class="pl-k">=</span> <span class="pl-smi">filledActivityDF</span><span class="pl-k">$</span><span class="pl-smi">date</span>), <span class="pl-v">FUN</span> <span class="pl-k">=</span> <span class="pl-smi">sum</span>)
 
-<span class="pl-c"><span class="pl-c">#</span> get average value</span>
-<span class="pl-k">for</span> (<span class="pl-smi">i</span> <span class="pl-k">in</span> <span class="pl-c1">1</span><span class="pl-k">:</span>nrow(<span class="pl-smi">activity</span>)){
-    <span class="pl-k">if</span> (is.na(<span class="pl-smi">activity</span><span class="pl-k">$</span><span class="pl-smi">steps</span>[<span class="pl-smi">i</span>])){
-        <span class="pl-smi">avg1</span>[<span class="pl-smi">i</span>] <span class="pl-k">&lt;-</span> <span class="pl-smi">avgInt</span><span class="pl-k">$</span><span class="pl-smi">AvgNumSteps</span>[which(<span class="pl-smi">activity</span><span class="pl-k">$</span><span class="pl-smi">interval</span>[<span class="pl-smi">i</span>] <span class="pl-k">==</span> <span class="pl-smi">avgInt</span><span class="pl-k">$</span><span class="pl-smi">Interval</span>)]
-    }
-    <span class="pl-k">else</span> {
-      <span class="pl-smi">avg1</span>[<span class="pl-smi">i</span>] <span class="pl-k">&lt;-</span> <span class="pl-smi">activity</span><span class="pl-k">$</span><span class="pl-smi">steps</span>[<span class="pl-smi">i</span>]
-    }   
-}
+hist(<span class="pl-smi">stepsByDay</span><span class="pl-k">$</span><span class="pl-smi">x</span>, <span class="pl-v">col</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>red<span class="pl-pds">"</span></span>, <span class="pl-v">xlab</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>Total number of filled steps taken each day<span class="pl-pds">"</span></span>,
+     <span class="pl-v">main</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>Histogram of total number of filled steps taken each day<span class="pl-pds">"</span></span>)</pre></div>
+<p><a href="/sujitdas9960/RepData_PeerAssessment1/blob/master/PA1_template_files/figure-html/missing_value-1.png" target="_blank"><img src="/sujitdas9960/RepData_PeerAssessment1/raw/master/PA1_template_files/figure-html/missing_value-1.png" alt="" style="max-width:100%;"></a></p>
+<div class="highlight highlight-source-r"><pre><span class="pl-smi">meanStepsByDay</span> <span class="pl-k">&lt;-</span> mean(<span class="pl-smi">stepsByDay</span><span class="pl-k">$</span><span class="pl-smi">x</span>)
+<span class="pl-smi">medianStepsByDay</span> <span class="pl-k">&lt;-</span> median(<span class="pl-smi">stepsByDay</span><span class="pl-k">$</span><span class="pl-smi">x</span>)</pre></div>
+<p>Total missing or NA count of activities = 2304<br>
+<strong>Missing value imputed using mean value, averaged across all days,
+for the given interval</strong><br>
+Mean number of steps taken each day after imputing missing values = 10765.6393<br>
+Median number of steps taken each day after imputing missing values = 10762</p>
+<h2><a id="user-content-are-there-differences-in-activity-patterns-between-weekdays-and-weekends" class="anchor" href="#are-there-differences-in-activity-patterns-between-weekdays-and-weekends" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Are there differences in activity patterns between weekdays and weekends?</h2>
+<div class="highlight highlight-source-r"><pre><span class="pl-c"><span class="pl-c">#</span>#Plot weekday and weekend steps</span>
+<span class="pl-smi">filledActivityDF</span><span class="pl-k">$</span><span class="pl-smi">dayInd</span> <span class="pl-k">&lt;-</span> <span class="pl-k">factor</span>(ifelse(weekdays(as.Date(<span class="pl-smi">filledActivityDF</span><span class="pl-k">$</span><span class="pl-smi">date</span>,
+                                        <span class="pl-s"><span class="pl-pds">"</span>%Y-%m-%d<span class="pl-pds">"</span></span>), <span class="pl-v">abbreviate</span> <span class="pl-k">=</span> <span class="pl-c1">TRUE</span>) <span class="pl-k">%in%</span>
+                                        c(<span class="pl-s"><span class="pl-pds">"</span>Sat<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>Sun<span class="pl-pds">"</span></span>), <span class="pl-s"><span class="pl-pds">"</span>weekend<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>weekday<span class="pl-pds">"</span></span>))
+<span class="pl-smi">stepsBy5MinInt</span> <span class="pl-k">&lt;-</span> aggregate(<span class="pl-smi">filledActivityDF</span><span class="pl-k">$</span><span class="pl-smi">steps</span>, <span class="pl-v">by</span> <span class="pl-k">=</span> <span class="pl-k">list</span>(<span class="pl-v">interval</span> <span class="pl-k">=</span>
+                        <span class="pl-smi">filledActivityDF</span><span class="pl-k">$</span><span class="pl-smi">interval</span>,
+                        <span class="pl-v">dayInd</span> <span class="pl-k">=</span> <span class="pl-smi">filledActivityDF</span><span class="pl-k">$</span><span class="pl-smi">dayInd</span>), <span class="pl-v">FUN</span> <span class="pl-k">=</span> <span class="pl-smi">mean</span>)
 
-<span class="pl-c"><span class="pl-c">#</span> impute values</span>
-<span class="pl-smi">imputedData</span><span class="pl-k">$</span><span class="pl-smi">steps</span> <span class="pl-k">&lt;-</span> impute (<span class="pl-smi">activity</span><span class="pl-k">$</span><span class="pl-smi">steps</span>, <span class="pl-smi">avg1</span>)</pre></div>
-<h2><a id="user-content-7-histogram-of-the-total-number-of-steps-taken-each-day-after-missing-values-are-imputed" class="anchor" href="#7-histogram-of-the-total-number-of-steps-taken-each-day-after-missing-values-are-imputed" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>7. Histogram of the total number of steps taken each day after missing values are imputed</h2>
-<p>Create new histogram</p>
-<div class="highlight highlight-source-r"><pre><span class="pl-smi">stepsPerDay</span> <span class="pl-k">&lt;-</span> aggregate(<span class="pl-smi">imputedData</span><span class="pl-k">$</span><span class="pl-smi">steps</span>, <span class="pl-k">list</span>(<span class="pl-smi">imputedData</span><span class="pl-k">$</span><span class="pl-smi">date</span>), <span class="pl-smi">sum</span>)
-colnames(<span class="pl-smi">stepsPerDay</span>) <span class="pl-k">&lt;-</span> c(<span class="pl-s"><span class="pl-pds">"</span>date<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>steps<span class="pl-pds">"</span></span>)
-hist(<span class="pl-smi">stepsPerDay</span><span class="pl-k">$</span><span class="pl-smi">steps</span>, <span class="pl-v">breaks</span> <span class="pl-k">=</span> <span class="pl-c1">15</span>, <span class="pl-v">main</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>Number of Steps per day (imputed values for NA)<span class="pl-pds">"</span></span>, 
-     <span class="pl-v">xlab</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>Sum of steps taken<span class="pl-pds">"</span></span>, <span class="pl-v">ylab</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>Days<span class="pl-pds">"</span></span>)</pre></div>
-<p>![](PA1_template_files/figure-html/steps per day new-1.png)</p>
-<p>Mean of number of steps:</p>
-<div class="highlight highlight-source-r"><pre><span class="pl-smi">mean2</span> <span class="pl-k">&lt;-</span> mean(<span class="pl-smi">stepsPerDay</span><span class="pl-k">$</span><span class="pl-smi">steps</span>, <span class="pl-v">na.rm</span> <span class="pl-k">=</span> <span class="pl-c1">TRUE</span>)
-<span class="pl-smi">mean2</span></pre></div>
-<pre><code>## [1] 10766.19
-</code></pre>
-<p>Median of number of steps:</p>
-<div class="highlight highlight-source-r"><pre><span class="pl-smi">median2</span> <span class="pl-k">&lt;-</span> median(<span class="pl-smi">stepsPerDay</span><span class="pl-k">$</span><span class="pl-smi">steps</span>, <span class="pl-v">na.rm</span> <span class="pl-k">=</span> <span class="pl-c1">TRUE</span>)
-<span class="pl-smi">median2</span></pre></div>
-<pre><code>## [1] 10766.19
-</code></pre>
-<p>Differences between imputed and orignal data:</p>
-<div class="highlight highlight-source-r"><pre><span class="pl-smi">mean1</span><span class="pl-k">-</span><span class="pl-smi">mean2</span></pre></div>
-<pre><code>## [1] 0
-</code></pre>
-<div class="highlight highlight-source-r"><pre><span class="pl-smi">median1</span><span class="pl-k">-</span><span class="pl-smi">median2</span></pre></div>
-<pre><code>## [1] -1.188679
-</code></pre>
-<p>Result:
-While the overall mean stayed the same - the median shifted.</p>
-<h2><a id="user-content-8-panel-plot-comparing-the-average-number-of-steps-taken-per-5-minute-interval-across-weekdays-and-weekends" class="anchor" href="#8-panel-plot-comparing-the-average-number-of-steps-taken-per-5-minute-interval-across-weekdays-and-weekends" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>8. Panel plot comparing the average number of steps taken per 5-minute interval across weekdays and weekends</h2>
-<p>Identify day of week, daytype (weekday, weekend) and calculate average for these groups.</p>
-<div class="highlight highlight-source-r"><pre><span class="pl-c"><span class="pl-c">#</span> get day of week</span>
-<span class="pl-smi">imputedData</span><span class="pl-k">$</span><span class="pl-smi">weekdays</span> <span class="pl-k">&lt;-</span> as.POSIXlt(as.Date(<span class="pl-smi">imputedData</span><span class="pl-k">$</span><span class="pl-smi">date</span>))<span class="pl-k">$</span><span class="pl-smi">wday</span>
-<span class="pl-c"><span class="pl-c">#</span> define weekend or not</span>
-<span class="pl-smi">imputedData</span><span class="pl-k">$</span><span class="pl-smi">daytype</span> <span class="pl-k">&lt;-</span> ifelse(<span class="pl-smi">imputedData</span><span class="pl-k">$</span><span class="pl-smi">weekdays</span> <span class="pl-k">%in%</span> c(<span class="pl-c1">6</span>, <span class="pl-c1">7</span>),<span class="pl-s"><span class="pl-pds">"</span>weekend<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>weekday<span class="pl-pds">"</span></span>)
 
-<span class="pl-c"><span class="pl-c">#</span> compute avg per interval and day type</span>
-<span class="pl-smi">stepsPerDay</span> <span class="pl-k">&lt;-</span> aggregate(<span class="pl-smi">imputedData</span><span class="pl-k">$</span><span class="pl-smi">steps</span>, <span class="pl-k">list</span>(<span class="pl-smi">imputedData</span><span class="pl-k">$</span><span class="pl-smi">interval</span>, <span class="pl-smi">imputedData</span><span class="pl-k">$</span><span class="pl-smi">daytype</span>), <span class="pl-smi">mean</span>)
-colnames(<span class="pl-smi">stepsPerDay</span>) <span class="pl-k">&lt;-</span> c(<span class="pl-s"><span class="pl-pds">"</span>interval<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>daytype<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>avgsteps<span class="pl-pds">"</span></span>)</pre></div>
-<p>Now plot the steps using the lattice package</p>
-<div class="highlight highlight-source-r"><pre>library(<span class="pl-smi">lattice</span>)
-xyplot(<span class="pl-smi">avgsteps</span> <span class="pl-k">~</span> <span class="pl-smi">interval</span> <span class="pl-k">|</span> <span class="pl-smi">daytype</span>, <span class="pl-v">data</span> <span class="pl-k">=</span> <span class="pl-smi">stepsPerDay</span>, <span class="pl-v">layout</span> <span class="pl-k">=</span> c(<span class="pl-c1">1</span>, <span class="pl-c1">2</span>), 
-       <span class="pl-v">type</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>l<span class="pl-pds">"</span></span>, <span class="pl-v">xlab</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>Interval<span class="pl-pds">"</span></span>, <span class="pl-v">ylab</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>Number of steps<span class="pl-pds">"</span></span>)</pre></div>
-<p><a href="/awulfes/RepData_PeerAssessment1/blob/master/PA1_template_files/figure-html/unnamed-chunk-6-1.png" target="_blank"><img src="/awulfes/RepData_PeerAssessment1/raw/master/PA1_template_files/figure-html/unnamed-chunk-6-1.png" alt="" style="max-width:100%;"></a></p>
+library(<span class="pl-smi">lattice</span>)
+xyplot(<span class="pl-smi">x</span> <span class="pl-k">~</span> <span class="pl-smi">interval</span> <span class="pl-k">|</span> <span class="pl-smi">dayInd</span>, <span class="pl-v">data</span><span class="pl-k">=</span><span class="pl-smi">stepsBy5MinInt</span>, <span class="pl-v">xlab</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>Interval<span class="pl-pds">"</span></span>,
+       <span class="pl-v">ylab</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>Number of steps<span class="pl-pds">"</span></span>, <span class="pl-v">layout</span><span class="pl-k">=</span>c(<span class="pl-c1">1</span>,<span class="pl-c1">2</span>), <span class="pl-v">type</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>l<span class="pl-pds">"</span></span>)</pre></div>
+<p><a href="/sujitdas9960/RepData_PeerAssessment1/blob/master/PA1_template_files/figure-html/weekday_weekend_plot-1.png" target="_blank"><img src="/sujitdas9960/RepData_PeerAssessment1/raw/master/PA1_template_files/figure-html/weekday_weekend_plot-1.png" alt="" style="max-width:100%;"></a></p>
 </article>
   </div>
 
@@ -776,7 +749,7 @@ xyplot(<span class="pl-smi">avgsteps</span> <span class="pl-k">~</span> <span cl
       <svg aria-hidden="true" class="octicon octicon-mark-github" height="24" version="1.1" viewBox="0 0 16 16" width="24"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2017 <span title="0.11860s from github-fe-651e69d.cp1-iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2017 <span title="0.20855s from unicorn-1981933685-xdxf8">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
